@@ -2,7 +2,10 @@
 
 ## To start the project 
 
-- First start metro server using
+- First Install dependencies using
+ `npm i`
+
+- Start metro server using
 `npx react-native start`
 
 # Then run 
