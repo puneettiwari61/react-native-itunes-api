@@ -16,6 +16,6 @@
 
 ## Demo
 
-![alt Demo](https://github.com/puneettiwari61/react-native-itunes-api/blob/main/demo/Screenshot_1605354287.png)
+![alt Demo](https://github.com/puneettiwari61/react-native-itunes-api/blob/main/demo/Screenshot_1605354287.png=250x)
 
-![alt Demo](https://github.com/puneettiwari61/react-native-itunes-api/blob/main/demo/Screenshot_1605354284.png)
+![alt Demo](https://github.com/puneettiwari61/react-native-itunes-api/blob/main/demo/Screenshot_1605354274.png=250x)
