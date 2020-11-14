@@ -13,3 +13,8 @@
 - For Ios
 `npx react-native run-ios`
 
+
+## Demo
+
+![alt Demo](https://github.com/puneetiwari61/react-native-itunes-api/demo/itunes.webm)
+
