@@ -16,5 +16,6 @@
 
 ## Demo
 
-![alt Demo](https://github.com/puneetiwari61/react-native-itunes-api/demo/itunes.webm)
+![alt Demo](https://github.com/puneettiwari61/react-native-itunes-api/blob/main/demo/Screenshot_1605354287.png)
 
+![alt Demo](https://github.com/puneettiwari61/react-native-itunes-api/blob/main/demo/Screenshot_1605354284.png)
