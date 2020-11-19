@@ -19,6 +19,10 @@
 `npx react-native run-ios`
 
 
+# Test app
+
+`npm run test`
+
 ## Demo
 
 <img src="https://github.com/puneettiwari61/react-native-itunes-api/blob/main/demo/Screenshot_1605354287.png" width="250px" alt="demo" />
