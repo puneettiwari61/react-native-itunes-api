@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
     width: 100,
     height: 100,
     marginVertical: 10,
-    borderRadius: 50
+    borderRadius: 50,
   },
   textWrapper: {
     flex: 1.5,

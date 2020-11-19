@@ -3,18 +3,10 @@ import React from 'react';
 import {Text, View, Image} from 'react-native';
 
 import {FONTS} from '../constants';
+import {millisToMinutesAndSeconds} from '../utils/helperFunctions';
 import styles from './ItemStyle';
 
 const Item = (props) => {
-  const millisToMinutesAndSeconds = (millis) => {
-    var minutes = Math.floor(millis / 60000);
-    var seconds = ((millis % 60000) / 1000).toFixed(0);
-    if (!minutes) {
-      return 'NA';
-    }
-    return `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
-  };
-
   const item = props.route.params && props.route.params.item;
   return (
     <View style={styles.wrapper}>
